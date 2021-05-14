@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá! 
 
-<!--
-**rogersebastiany/rogersebastiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou desenvolvedor de software, graduando em ciência da computação e entusiasta de blockchain e mercado financeiro.
 
-Here are some ideas to get you started:
+### Nascido no interior do Brasil, mas com os olhos virados para o mundo. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Acompanhe um pouco do meu trabalho:
+
+- [github](https://github.com/rogersebastiany) - Você está aqui!
+- [medium](https://medium.com/@rogersebastiany) - Meus artigos publicados
+- [linkedin](https://www.linkedin.com/in/roger-sebastiany-0b3828108/)
+
+#### As tecnologias que mais me inspiram são:
+
+- Python
+- Node.js 
+- Blockchain
+- Machine Learning
+- Data Science
