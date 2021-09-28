@@ -2,7 +2,7 @@
 
 ## Sou desenvolvedor de software, graduando em ciência da computação e entusiasta de blockchain e mercado financeiro.
 
-### Nascido no interior do Brasil, mas com os olhos virados para o mundo. 
+### Nascido no interior do Brasil, mas com os olhos para o mundo. 
 
 #### Acompanhe um pouco do meu trabalho:
 
