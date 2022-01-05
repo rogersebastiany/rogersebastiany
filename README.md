@@ -4,17 +4,15 @@
 ## [en-US] I am a software developer, blockchain and financial market enthusiast, and also majoring in computer science at the moment (despite Covid, I might graduate this year).
 
 ### [pt-BR] Nascido no interior do Brasil, mas com os olhos para o mundo.
-### [en-US] The above message is meant for brazilians only =P
 
-#### [pt-BR] Acompanhe um pouco do meu trabalho: 
-#### [en-US] Follow my work: 
+
+#### [pt-BR] Acompanhe um pouco do meu trabalho: #### [en-US] Follow my work:
 
 - [github](https://github.com/rogersebastiany) - Você está aqui! You're Here!
 - [medium](https://medium.com/@rogersebastiany) - Meus artigos publicados
 - [linkedin](https://www.linkedin.com/in/roger-sebastiany-0b3828108/)
 
-#### [pt-BR] Tecnologias que me inspiram:
-#### [en-US] Technologies that inspire me:
+#### [pt-BR] Tecnologias que me inspiram: #### [en-US] Technologies that inspire me:
 
 - Python
 - Node.js 
