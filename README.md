@@ -1,7 +1,7 @@
 # Olá! Hello!
 
 ## [pt-BR] Sou desenvolvedor de software, graduando em ciência da computação e entusiasta de blockchain e mercado financeiro.
-## [en-US] I am a software developer, blockchain and financial market enthusiast, and also majoring in computer science at the moment (despite Covid, I might graduate this year).
+## [en-US] I am a software developer, blockchain and financial market enthusiast.
 
 ### [pt-BR] Nascido no interior do Brasil, mas com os olhos para o mundo.
 
