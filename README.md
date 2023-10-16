@@ -1,4 +1,4 @@
 yeah
 
-backend developer
-software engineer
+* backend developer
+* software engineer
